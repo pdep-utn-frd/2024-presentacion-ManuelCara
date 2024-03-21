@@ -1,10 +1,6 @@
 # presentacion-
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+Hola!
 
-Ya saben usar git!
+Soy Manuel Cara,  tengo 23 años y soy estudiante de 2do
+Es mi segunda vez cursando paradigma, me gusta programar pero no soy tan fanático.
